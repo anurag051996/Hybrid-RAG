@@ -1,0 +1,30 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Vector DB persistence
+.chromadb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data (keep sample_docs, ignore large corpora)
+data/raw/
+data/processed/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
