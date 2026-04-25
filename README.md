@@ -1,6 +1,5 @@
 # 🔍 Hybrid RAG — Vector Search + BM25
 
-> **Day XX of [60-days-genai](https://github.com/your-username/60-days-genai)**
 
 A production-ready Retrieval-Augmented Generation (RAG) pipeline that combines **dense vector search** and **sparse BM25 retrieval** via **Reciprocal Rank Fusion (RRF)** for significantly better retrieval quality than either method alone.
 
@@ -171,13 +170,5 @@ pytest tests/ -v
 - **LLM**: OpenAI `gpt-4o-mini` or Anthropic `claude-sonnet-4-20250514`
 - **PDF Parsing**: `pypdf`
 
----
-
-## 🔗 Related Days
-
-- Day XX-1: Naive RAG baseline
-- Day XX+1: Adding cross-encoder reranking
 
 ---
-
-*Part of the [60-days-genai](https://github.com/your-username/60-days-genai) challenge.*
