@@ -51,7 +51,7 @@ Documents
 ## 📁 Project Structure
 
 ```
-day-XX-hybrid-rag/
+hybrid-rag/
 ├── README.md
 ├── requirements.txt
 ├── .env.example
