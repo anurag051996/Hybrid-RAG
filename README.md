@@ -87,8 +87,8 @@ day-XX-hybrid-rag/
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/your-username/60-days-genai.git
-cd 60-days-genai/day-XX-hybrid-rag
+git clone https://github.com/your-username/genai.git
+cd genai/hybrid-rag
 
 # 2. Create virtual environment
 python -m venv venv
